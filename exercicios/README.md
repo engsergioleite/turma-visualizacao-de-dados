@@ -1,7 +1,9 @@
-# Exercicios de Python — Turma Visualizacao de Dados
+# Exercícios de Python — Turma Visualização de Dados
 
-Este diretório contém os materiais práticos do curso, organizados por módulo temático.
-Cada pasta representa uma etapa do aprendizado, do mais simples ao mais complexo.
+Materiais práticos do curso, organizados por módulo temático e progressão didática.
+Cada pasta representa uma etapa do aprendizado — do mais simples ao mais complexo.
+
+> Estes exercícios acompanham as aulas da **Semana 03**. Consulte os guias em [`aulas/semana_03/`](../aulas/semana_03/) para referência paralela.
 
 ---
 
@@ -186,21 +188,22 @@ Exercicio 4 → Tabuada: loop for com range(1, 11)
 
 ---
 
-## Lista de Exercicios
+## Lista de Exercícios
 
-| # | Modulo | Tema | Arquivo | Status |
-|---|--------|------|---------|--------|
-| 01 | Sintaxe | Print e saída de dados | `01.sintaxe/exe01.py` | Disponivel |
-| 02 | Sintaxe | Input e entrada de dados | `01.sintaxe/exe02.py` | Disponivel |
-| 03 | Sintaxe | Comentários no código | `01.sintaxe/exe03.py` | Disponivel |
-| 04 | Variáveis | Tipos primitivos | `02.variaveis/tipos_de_dados.py` | Disponivel |
-| 05 | Variáveis | Concatenação de strings | `02.variaveis/concatenacao.py` | Disponivel |
-| 06 | Estruturas | Condicionais if/elif/else | `03.Estruturas/01.condicionais.py` | Disponivel |
-| 07 | Estruturas | Loop for | `03.Estruturas/02.loop_for.py` | Disponivel |
-| 08 | Estruturas | Loop while | `03.Estruturas/03.loop_while.py` | Disponivel |
-| 09 | Pratica | Exercícios mistos | `04. Exercicios/pratica.py` | Disponivel |
-| 10 | Pratica | Desafio final — caixa de loja | `04. Exercicios/cadastro_produtos.py` | Disponivel |
+| # | Semana | Módulo | Tema | Arquivo | Status |
+|---|--------|--------|------|---------|--------|
+| 01 | 03 | Sintaxe | Print e saída de dados | `01.sintaxe/exe01.py` | Disponível |
+| 02 | 03 | Sintaxe | Input e entrada de dados | `01.sintaxe/exe02.py` | Disponível |
+| 03 | 03 | Sintaxe | Comentários no código | `01.sintaxe/exe03.py` | Disponível |
+| 04 | 03 | Variáveis | Tipos primitivos | `02.variaveis/tipos_de_dados.py` | Disponível |
+| 05 | 03 | Variáveis | Concatenação de strings | `02.variaveis/concatenacao.py` | Disponível |
+| 06 | 03 | Estruturas | Condicionais if/elif/else | `03.Estruturas/01.condicionais.py` | Disponível |
+| 07 | 03 | Estruturas | Loop for | `03.Estruturas/02.loop_for.py` | Disponível |
+| 08 | 03 | Estruturas | Loop while | `03.Estruturas/03.loop_while.py` | Disponível |
+| 09 | 03 | Prática | Exercícios mistos | `04. Exercicios/pratica.py` | Disponível |
+| 10 | 03 | Prática | Desafio final — caixa de loja | `04. Exercicios/cadastro_produtos.py` | Disponível |
 
 ---
 
 > Dúvidas? Abra uma [Issue](https://github.com/cfneves/turma-visualizacao-de-dados/issues) no repositório.
+> Material de apoio: [`aulas/semana_03/guia-python-fundamentos.html`](../aulas/semana_03/guia-python-fundamentos.html)
