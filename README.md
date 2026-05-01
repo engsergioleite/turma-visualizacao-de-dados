@@ -97,22 +97,60 @@ _Sua pasta ainda não aparece aqui? Siga o [guia de contribuição](./CONTRIBUTI
 
 ## Como Participar — Fork e Clone
 
-Você vai precisar usar **os dois**: fork e clone. Eles fazem coisas diferentes e se complementam.
-
-### Fork vs Clone — entenda a diferença
-
-| | Fork | Clone |
-|--|------|-------|
-| **O que faz** | Copia o repositório para a **sua conta no GitHub** | Baixa o repositório para a **sua máquina** |
-| **Onde fica** | Na nuvem (github.com/SEU_USUARIO) | No seu computador (pasta local) |
-| **Para que serve** | Ter um repositório próprio onde você pode enviar alterações | Trabalhar nos arquivos localmente, no seu editor |
-| **Sem ele** | Você não tem permissão para enviar alterações | Você não consegue trabalhar offline nem usar VS Code / Jupyter |
-
-> **Resumo:** o fork cria a sua cópia no GitHub. O clone traz essa cópia para o seu computador. Você precisa dos dois.
+Você vai usar **os dois**: fork e clone. Eles fazem coisas diferentes e se complementam. Entenda cada um antes de combiná-los.
 
 ---
 
-### Fluxo completo — passo a passo
+### O que é Fork
+
+**Fork** é uma cópia do repositório criada **dentro da sua conta no GitHub** (na nuvem). Você faz isso diretamente pelo site do GitHub — sem precisar do terminal.
+
+**Quando usar:** quando você não tem permissão de escrita no repositório original (como é o caso aqui — somente o professor pode escrever diretamente).
+
+**Como fazer:**
+
+1. Acesse [github.com/cfneves/turma-visualizacao-de-dados](https://github.com/cfneves/turma-visualizacao-de-dados)
+2. Clique no botão **Fork** no canto superior direito
+3. Confirme clicando em **Create fork**
+
+Resultado: agora existe uma cópia em `github.com/SEU_USUARIO/turma-visualizacao-de-dados` — essa cópia é **sua** e você pode fazer o que quiser nela.
+
+> O fork fica no GitHub. Você ainda não tem nada no seu computador.
+
+---
+
+### O que é Clone
+
+**Clone** é o ato de baixar um repositório para o **seu computador**. A partir daí você trabalha localmente — no VS Code, Jupyter, ou qualquer editor.
+
+**Quando usar:** sempre que quiser trabalhar nos arquivos localmente, na sua máquina.
+
+**Como fazer:**
+
+```bash
+# No terminal, dentro da pasta onde quer salvar o projeto:
+git clone https://github.com/SEU_USUARIO/turma-visualizacao-de-dados.git
+cd turma-visualizacao-de-dados
+```
+
+> ⚠️ Clone sempre o SEU fork (`SEU_USUARIO`), nunca o do professor (`cfneves`). Se clonar o do professor, você não terá permissão para enviar suas alterações.
+
+Resultado: o repositório agora existe no seu computador. Qualquer alteração que você fizer precisa ser enviada de volta ao GitHub com `git push`.
+
+---
+
+### Fork vs Clone — comparação rápida
+
+| | Fork | Clone |
+|--|------|-------|
+| **Onde acontece** | No GitHub (navegador) | No terminal (sua máquina) |
+| **Onde fica o resultado** | Na sua conta do GitHub | Na sua pasta local |
+| **Para que serve** | Criar sua cópia com permissão de envio | Trabalhar localmente nos arquivos |
+| **Frequência** | Uma vez por repositório | Uma vez por máquina |
+
+---
+
+### Fluxo completo — os dois juntos
 
 ```
 Repositório do professor          Seu GitHub               Seu computador
