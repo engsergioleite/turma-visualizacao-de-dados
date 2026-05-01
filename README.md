@@ -4,7 +4,7 @@
 
 **Repositório oficial da turma** · Lab365 / SENAI SC
 
-[![Alunos](https://img.shields.io/badge/alunos-turma%202025-blue?style=flat-square)](./alunos/)
+[![Alunos](https://img.shields.io/badge/alunos-19-blue?style=flat-square)](./alunos/)
 [![PRs Bem-vindos](https://img.shields.io/badge/PRs-bem--vindos-brightgreen?style=flat-square)](./CONTRIBUTING.md)
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-lightgrey?style=flat-square)](./LICENSE)
 
@@ -64,7 +64,26 @@ turma-visualizacao-de-dados/
 
 | Aluno | Pasta |
 |-------|-------|
-| Cláudio Neves | [claudio_neves](./alunos/claudio_neves/) |
+| Carlos F. | [Carlos_F](./alunos/Carlos_F/) |
+| Christian Wis | [Christian_Wis](./alunos/Christian_Wis/) |
+| Claudi Borges | [claudi_borges](./alunos/claudi_borges/) |
+| Daniel Roberto | [daniel_roberto](./alunos/daniel_roberto/) |
+| Felipe Vampre | [felipe_vampre](./alunos/felipe_vampre/) |
+| Gustavo Branga | [gustavo_branga](./alunos/gustavo_branga/) |
+| Leo Gobel | [Leo_Gobel](./alunos/Leo_Gobel/) |
+| Lourenço Lemos | [lourenco_lemos](./alunos/lourenco_lemos/) |
+| Luís Napolitano | [luis_napolitano](./alunos/luis_napolitano/) |
+| Luís Oliveira | [luis_oliveira](./alunos/luis_oliveira/) |
+| Luiz Fernando Jesus | [luiz_fernando_jesus](./alunos/luiz_fernando_jesus/) |
+| Marcos Bhering | [marcos_bhering](./alunos/marcos_bhering/) |
+| Maria Helena | [maria_helena](./alunos/maria_helena/) |
+| Orlando Castro | [orlando_castro](./alunos/orlando_castro/) |
+| Robson Américo | [robsonaamerico](./alunos/robsonaamerico/) |
+| Rogério Estumano | [rogerio_estumano](./alunos/rogerio_estumano/) |
+| Samuel Bucco | [samuel_bucco](./alunos/samuel_bucco/) |
+| Sérgio Leite | [sergio_leite](./alunos/sergio_leite/) |
+| Victor H. Santos | [victor_h_santos](./alunos/victor_h_santos/) |
+| Cláudio Neves _(professor)_ | [claudio_neves](./alunos/claudio_neves/) |
 
 _Sua pasta ainda não aparece aqui? Siga o [guia de contribuição](./CONTRIBUTING.md) e abra um PR._
 
