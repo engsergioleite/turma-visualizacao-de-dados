@@ -49,12 +49,18 @@ turma-visualizacao-de-dados/
 ├── datasets/               ← Datasets compartilhados da turma
 ├── projetos/               ← Projetos finais publicados
 │
-└── alunos/                 ← Portfólios individuais dos alunos
-    └── nome-sobrenome/
-        ├── README.md       ← Apresentação e portfólio pessoal
-        ├── exercicios/     ← Entregas de exercícios
-        └── projetos/       ← Projetos autorais
+├── alunos/                 ← ✏️  ÁREA DOS ALUNOS — cada um tem sua pasta aqui
+│   ├── TEMPLATE_README.md  ← Modelo de portfólio para copiar
+│   └── nome-sobrenome/     ← Pasta individual de cada aluno
+│       ├── README.md       ← Apresentação e portfólio pessoal
+│       ├── exercicios/     ← Entregas de exercícios
+│       └── projetos/       ← Projetos autorais
+│
+└── .github/                ← Configurações internas do GitHub (não editar)
+    └── ISSUE_TEMPLATE/     ← Formulários de dúvida e problema de PR
 ```
+
+> **Alunos:** toda a sua atuação é dentro de `alunos/seu-nome/`. Nenhum outro diretório deve ser modificado.
 
 ---
 
